@@ -67,7 +67,7 @@ export default function Home() {
                 height={65}
                 priority={true}
               />
-              Estudantes
+              Urna Estudantes
             </a>
           </div>
         </div>
