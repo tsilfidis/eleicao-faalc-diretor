@@ -8,7 +8,7 @@ export default function Home() {
           <Image
             src="/ufms.png"
             alt="Logo UFMS"
-            width={400}
+            width={280}
             height={150}
             priority={true}
           />
