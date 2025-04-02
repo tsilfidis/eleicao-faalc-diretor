@@ -13,7 +13,7 @@ export default function Home() {
             priority={true}
           />
         </div>
-        <div className="font-extrabold w-full text-center text-2xl">
+        <div className="font-extrabold w-full text-center text-2xl font-[family-name:var(--font-geist-sans)]">
           Consulta Diretor FAALC Exercício: 2025-2029
         </div>
         <div className="min-w-[300px] sm:none"></div>
